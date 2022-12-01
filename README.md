@@ -4,6 +4,9 @@ This work is prepared to demostrate how Rademarcher Complexity may work. The Rad
 
 Libraries used for this work are:
  >sklearn
+ 
  >panda 
+ 
  >matplotlib.pyplot
+ 
  >numpy
